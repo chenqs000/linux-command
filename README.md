@@ -35,34 +35,35 @@
 非常感谢一直以来支持我开源项目的朋友们！如果您认可我的工作，欢迎通过 [赞助](https://wangchujiang.com/#/sponsor) 我或下载并使用我开发的 [macOS 应用](https://wangchujiang.com/#/app) 来支持我。以下是我个人独立开发的 macOS 应用列表：
 
 <p style="display: inline-block">
-  <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img align="center" alt="Vidwall Hub" height="52" width="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
-  <a target="_blank" href="https://apps.apple.com/app/VidCrop/6752624705" title="VidCrop for macOS"><img align="center" alt="VidCrop" height="52" width="52" src="https://github.com/user-attachments/assets/91d2b281-271a-4107-9ef6-f3b11bd6dbac"></a>
-  <a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img align="center" alt="Vidwall" height="52" width="52" src="https://github.com/user-attachments/assets/7b5df70a-ed91-4d4b-85be-f00e60a09ce9"></a>
-  <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img align="center" alt="Mousio Hint" height="52" width="52" src="https://github.com/user-attachments/assets/3c0af128-0cef-44e5-a8db-4741dc5a6690"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img align="center" alt="Mousio" height="52" width="52" src="https://github.com/user-attachments/assets/9edf61ff-5a6c-4676-9cc2-8fd3c1ad0dfb"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img align="center" alt="Musicer" height="52" width="52" src="https://github.com/user-attachments/assets/b7abfba8-88ff-4c86-a125-43073d5aef22"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6743841447" title="Audioer for macOS"><img align="center" alt="Audioer" height="52" width="52" src="https://github.com/user-attachments/assets/7a836865-8c90-4119-87bc-19e06a76c957"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6744690194" title="FileSentinel for macOS"><img align="center" alt="FileSentinel" height="52" width="52" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6743495172" title="FocusCursor for macOS"><img align="center" alt="FocusCursor" height="52" width="52" src="https://github.com/user-attachments/assets/d543668a-737b-4853-a6bb-eaa269e69836"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6742680573" title="Videoer for macOS"><img align="center" alt="Videoer" height="52" width="52" src="https://github.com/user-attachments/assets/10ffb0f1-0625-40d6-93f1-2c2496592595"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6740425504" title="KeyClicker for macOS"><img align="center" alt="KeyClicker" height="52" width="52" src="https://github.com/user-attachments/assets/5a19fcb9-cb81-4855-b4ea-31c604d9612a"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6739052447" title="DayBar for macOS"><img align="center" alt="DayBar" height="52" width="52" src="https://github.com/user-attachments/assets/771b608d-594c-492d-8532-d9231e383f5b"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6739444407" title="Iconed for macOS"><img align="center" alt="Iconed" height="52" width="52" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6737160756" title="RightMenu Master for macOS"><img align="center" alt="RightMenu Master" height="52" width="52" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6723903021" title="Paste Quick for macOS"><img align="center" alt="Quick RSS" height="52" width="52" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6670696072" title="Quick RSS for macOS/iOS"><img align="center" alt="Quick RSS" height="52" width="52" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6670167443" title="Web Serve for macOS"><img align="center" alt="Web Serve" height="52" width="52" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6503953628" title="Copybook Generator for macOS/iOS"><img align="center" alt="Copybook Generator" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6471227008" title="DevTutor for macOS/iOS"><img align="center" alt="DevTutor for SwiftUI" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6479819388" title="RegexMate for macOS/iOS"><img align="center" alt="RegexMate" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/aabe5aa9-9a96-4390-8bed-c3e4023d0dea"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6479194014" title="Time Passage for macOS/iOS"><img align="center" alt="Time Passage" height="52" width="52" src="https://github.com/jaywcjlove/time-passage/assets/1680273/6f30e429-e6f3-4dbe-9921-a5effe2a05e9"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6478772538" title="IconizeFolder for macOS"><img align="center" alt="Iconize Folder" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6478511402" title="Textsound Saver for macOS/iOS"><img align="center" alt="Textsound Saver" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6476924627" title="Create Custom Symbols for macOS"><img align="center" alt="Create Custom Symbols" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6476452351" title="DevHub for macOS"><img align="center" alt="DevHub" height="52" width="52" src="https://github.com/user-attachments/assets/4a44a4fd-67ce-430b-af0a-72f18feaa47d"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6476400184" title="Resume Revise for macOS"><img align="center" alt="Resume Revise" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img align="center" alt="Palette Genius" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
-  <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img align="center" alt="Symbol Scribe" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
+  <a target="_blank" href="https://apps.apple.com/app/Keyzer/6500434773" title="Keyzer for macOS"><img alt="Keyzer" height="52" width="52" src="https://wangchujiang.com/appicon/keyzer.png"></a>
+  <a target="_blank" href="https://github.com/jaywcjlove/vidwall-hub" title="Vidwall Hub for macOS"><img alt="Vidwall Hub" height="52" width="52" src="https://wangchujiang.com/appicon/vidwall-hub.png"></a>
+  <a target="_blank" href="https://apps.apple.com/app/VidCrop/6752624705" title="VidCrop for macOS"><img alt="VidCrop" height="52" width="52" src="https://github.com/user-attachments/assets/91d2b281-271a-4107-9ef6-f3b11bd6dbac"></a>
+  <a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS"><img alt="Vidwall" height="52" width="52" src="https://github.com/user-attachments/assets/7b5df70a-ed91-4d4b-85be-f00e60a09ce9"></a>
+  <a target="_blank" href="https://wangchujiang.com/mousio-hint/" title="Mousio Hint for macOS"><img alt="Mousio Hint" height="52" width="52" src="https://github.com/user-attachments/assets/3c0af128-0cef-44e5-a8db-4741dc5a6690"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6746747327" title="Mousio for macOS"><img alt="Mousio" height="52" width="52" src="https://github.com/user-attachments/assets/9edf61ff-5a6c-4676-9cc2-8fd3c1ad0dfb"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6745227444" title="Musicer for macOS"><img alt="Musicer" height="52" width="52" src="https://github.com/user-attachments/assets/b7abfba8-88ff-4c86-a125-43073d5aef22"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6743841447" title="Audioer for macOS"><img alt="Audioer" height="52" width="52" src="https://github.com/user-attachments/assets/7a836865-8c90-4119-87bc-19e06a76c957"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6744690194" title="FileSentinel for macOS"><img alt="FileSentinel" height="52" width="52" src="https://github.com/user-attachments/assets/28bce2cc-290e-45bf-9068-585ff6ecafe9"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6743495172" title="FocusCursor for macOS"><img alt="FocusCursor" height="52" width="52" src="https://github.com/user-attachments/assets/d543668a-737b-4853-a6bb-eaa269e69836"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6742680573" title="Videoer for macOS"><img alt="Videoer" height="52" width="52" src="https://github.com/user-attachments/assets/10ffb0f1-0625-40d6-93f1-2c2496592595"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6740425504" title="KeyClicker for macOS"><img alt="KeyClicker" height="52" width="52" src="https://github.com/user-attachments/assets/5a19fcb9-cb81-4855-b4ea-31c604d9612a"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6739052447" title="DayBar for macOS"><img alt="DayBar" height="52" width="52" src="https://github.com/user-attachments/assets/771b608d-594c-492d-8532-d9231e383f5b"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6739444407" title="Iconed for macOS"><img alt="Iconed" height="52" width="52" src="https://github.com/user-attachments/assets/8a35dc7b-4faf-4e2a-9311-f66d6844a896"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6737160756" title="RightMenu Master for macOS"><img alt="RightMenu Master" height="52" width="52" src="https://github.com/user-attachments/assets/39a76541-71bf-4de7-a01c-c62f0557dff5"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6723903021" title="Paste Quick for macOS"><img alt="Quick RSS" height="52" width="52" src="https://github.com/user-attachments/assets/bdaad5b7-9810-44ce-8f17-8410864465d2"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6670696072" title="Quick RSS for macOS/iOS"><img alt="Quick RSS" height="52" width="52" src="https://github.com/user-attachments/assets/374106b5-a448-4d1d-9ccb-b04b6bc681ed"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6670167443" title="Web Serve for macOS"><img alt="Web Serve" height="52" width="52" src="https://github.com/user-attachments/assets/e1d9f76f-0f3d-4ba5-8a15-253ee173bb1c"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6503953628" title="Copybook Generator for macOS/iOS"><img alt="Copybook Generator" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/b90e42ff-158b-4534-82ca-5898fd0e8d73"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6471227008" title="DevTutor for macOS/iOS"><img alt="DevTutor for SwiftUI" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/f15c154d-0192-48eb-8e0e-9e245ffd974a"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6479819388" title="RegexMate for macOS/iOS"><img alt="RegexMate" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/aabe5aa9-9a96-4390-8bed-c3e4023d0dea"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6479194014" title="Time Passage for macOS/iOS"><img alt="Time Passage" height="52" width="52" src="https://github.com/jaywcjlove/time-passage/assets/1680273/6f30e429-e6f3-4dbe-9921-a5effe2a05e9"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6478772538" title="IconizeFolder for macOS"><img alt="Iconize Folder" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/fa9d8b9c-1e51-4ded-877c-fa5b21c47220"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6478511402" title="Textsound Saver for macOS/iOS"><img alt="Textsound Saver" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/0595e842-980b-4574-8891-a8ba853a08be"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6476924627" title="Create Custom Symbols for macOS"><img alt="Create Custom Symbols" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/8cd022ce-a3f1-4e89-b7c6-6fbd0d4db77c"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6476452351" title="DevHub for macOS"><img alt="DevHub" height="52" width="52" src="https://github.com/user-attachments/assets/4a44a4fd-67ce-430b-af0a-72f18feaa47d"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6476400184" title="Resume Revise for macOS"><img alt="Resume Revise" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c9954a20-1905-48de-bdf8-d71837974aa2"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/27340413-d355-45b2-8f6f-6ac37682d957"></a>
+  <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" width="52" src="https://github.com/jaywcjlove/jaywcjlove/assets/1680273/c7249f05-fa70-4def-a1e9-571d5f171fc9"></a>
 </p>
 
 ## Web 版本
@@ -485,25 +486,25 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/Wvvatt" title="VVatt"><img src="https://avatars.githubusercontent.com/u/38394031?v=4" width="42;" alt="VVatt"/></a>
 <a href="https://github.com/jcdj666" title="jcdj666"><img src="https://avatars.githubusercontent.com/u/38837009?v=4" width="42;" alt="jcdj666"/></a>
 <a href="https://github.com/gggwvg" title="gggwvg"><img src="https://avatars.githubusercontent.com/u/6913118?v=4" width="42;" alt="gggwvg"/></a>
-<a href="https://github.com/BingCoke" title="BingCoke"><img src="https://avatars.githubusercontent.com/u/81607010?v=4" width="42;" alt="BingCoke"/></a>
-<a href="https://github.com/einverne" title="Ein Verne"><img src="https://avatars.githubusercontent.com/u/1962738?v=4" width="42;" alt="Ein Verne"/></a>
-<a href="https://github.com/FunKeen" title="FunKeen"><img src="https://avatars.githubusercontent.com/u/112614943?v=4" width="42;" alt="FunKeen"/></a>
-<a href="https://github.com/li7355608" title="Github1977"><img src="https://avatars.githubusercontent.com/u/68886053?v=4" width="42;" alt="Github1977"/></a>
-<a href="https://github.com/yibajianghudao" title="JiangHuDao"><img src="https://avatars.githubusercontent.com/u/111487502?v=4" width="42;" alt="JiangHuDao"/></a>
-<a href="https://github.com/hellof20" title="Pan, Wen-Ming"><img src="https://avatars.githubusercontent.com/u/8756642?v=4" width="42;" alt="Pan, Wen-Ming"/></a>
 <a href="https://github.com/Dazhuangw" title="Dazhuangw"><img src="https://avatars.githubusercontent.com/u/74780009?v=4" width="42;" alt="Dazhuangw"/></a>
 <a href="https://github.com/alterem" title="Alterem"><img src="https://avatars.githubusercontent.com/u/16953053?v=4" width="42;" alt="Alterem"/></a>
 <a href="https://github.com/YanhiWang" title="YH"><img src="https://avatars.githubusercontent.com/u/114390595?v=4" width="42;" alt="YH"/></a>
-<a href="https://github.com/fishandsheep" title="QinShower"><img src="https://avatars.githubusercontent.com/u/43347407?v=4" width="42;" alt="QinShower"/></a>
 <a href="https://github.com/XingwenZhang" title="Xingwen Zhang"><img src="https://avatars.githubusercontent.com/u/21063553?v=4" width="42;" alt="Xingwen Zhang"/></a>
 <a href="https://github.com/RichardLCD" title="RichardLCD"><img src="https://avatars.githubusercontent.com/u/41584321?v=4" width="42;" alt="RichardLCD"/></a>
-<a href="https://github.com/hululu1068" title="hululu1068"><img src="https://avatars.githubusercontent.com/u/68652362?v=4" width="42;" alt="hululu1068"/></a>
-<a href="https://github.com/llmons" title="illmons"><img src="https://avatars.githubusercontent.com/u/143727979?v=4" width="42;" alt="illmons"/></a>
-<a href="https://github.com/Coder-ZJQ" title="jqz3.tech"><img src="https://avatars.githubusercontent.com/u/15013685?v=4" width="42;" alt="jqz3.tech"/></a>
-<a href="https://github.com/juemuren4449" title="juemuren4449"><img src="https://avatars.githubusercontent.com/u/12666694?v=4" width="42;" alt="juemuren4449"/></a>
-<a href="https://github.com/kassadin" title="kassadin"><img src="https://avatars.githubusercontent.com/u/1104051?v=4" width="42;" alt="kassadin"/></a>
-<a href="https://github.com/kid1412621" title="NanoNova"><img src="https://avatars.githubusercontent.com/u/26278054?v=4" width="42;" alt="NanoNova"/></a>
+<a href="https://github.com/fishandsheep" title="QinShower"><img src="https://avatars.githubusercontent.com/u/43347407?v=4" width="42;" alt="QinShower"/></a>
+<a href="https://github.com/hellof20" title="Pan, Wen-Ming"><img src="https://avatars.githubusercontent.com/u/8756642?v=4" width="42;" alt="Pan, Wen-Ming"/></a>
+<a href="https://github.com/yibajianghudao" title="JiangHuDao"><img src="https://avatars.githubusercontent.com/u/111487502?v=4" width="42;" alt="JiangHuDao"/></a>
+<a href="https://github.com/li7355608" title="Atri"><img src="https://avatars.githubusercontent.com/u/68886053?v=4" width="42;" alt="Atri"/></a>
+<a href="https://github.com/BingCoke" title="BingCoke"><img src="https://avatars.githubusercontent.com/u/81607010?v=4" width="42;" alt="BingCoke"/></a>
+<a href="https://github.com/einverne" title="Ein Verne"><img src="https://avatars.githubusercontent.com/u/1962738?v=4" width="42;" alt="Ein Verne"/></a>
+<a href="https://github.com/FunKeen" title="FunKeen"><img src="https://avatars.githubusercontent.com/u/112614943?v=4" width="42;" alt="FunKeen"/></a>
 <a href="https://github.com/kmephistoh" title="kmephistoh"><img src="https://avatars.githubusercontent.com/u/2638142?v=4" width="42;" alt="kmephistoh"/></a>
+<a href="https://github.com/kid1412621" title="NanoNova"><img src="https://avatars.githubusercontent.com/u/26278054?v=4" width="42;" alt="NanoNova"/></a>
+<a href="https://github.com/kassadin" title="kassadin"><img src="https://avatars.githubusercontent.com/u/1104051?v=4" width="42;" alt="kassadin"/></a>
+<a href="https://github.com/juemuren4449" title="juemuren4449"><img src="https://avatars.githubusercontent.com/u/12666694?v=4" width="42;" alt="juemuren4449"/></a>
+<a href="https://github.com/Coder-ZJQ" title="jqz3.tech"><img src="https://avatars.githubusercontent.com/u/15013685?v=4" width="42;" alt="jqz3.tech"/></a>
+<a href="https://github.com/llmons" title="illmons"><img src="https://avatars.githubusercontent.com/u/143727979?v=4" width="42;" alt="illmons"/></a>
+<a href="https://github.com/hululu1068" title="hululu1068"><img src="https://avatars.githubusercontent.com/u/68652362?v=4" width="42;" alt="hululu1068"/></a>
 <a href="https://github.com/leiaoo" title="leo"><img src="https://avatars.githubusercontent.com/u/8576385?v=4" width="42;" alt="leo"/></a>
 <a href="https://github.com/lewis1573" title="lewis1573"><img src="https://avatars.githubusercontent.com/u/77063576?v=4" width="42;" alt="lewis1573"/></a>
 <a href="https://github.com/linuxwd" title="linuxwd"><img src="https://avatars.githubusercontent.com/u/1127767?v=4" width="42;" alt="linuxwd"/></a>
@@ -512,7 +513,7 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/dufu-byte" title="dufu"><img src="https://avatars.githubusercontent.com/u/29202248?v=4" width="42;" alt="dufu"/></a>
 <a href="https://github.com/miniwater" title="miniwater"><img src="https://avatars.githubusercontent.com/u/14000053?v=4" width="42;" alt="miniwater"/></a>
 <a href="https://github.com/z-anshun" title="noodles2hg"><img src="https://avatars.githubusercontent.com/u/57032282?v=4" width="42;" alt="noodles2hg"/></a>
-<a href="https://github.com/JackABlack" title="Jack.A.Black"><img src="https://avatars.githubusercontent.com/u/33801210?v=4" width="42;" alt="Jack.A.Black"/></a>
+<a href="https://github.com/121812" title="Forever121"><img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="Forever121"/></a>
 <a href="https://github.com/cxalc" title="cxalc"><img src="https://avatars.githubusercontent.com/u/79086256?v=4" width="42;" alt="cxalc"/></a>
 <a href="https://github.com/daydaygo" title="dayday"><img src="https://avatars.githubusercontent.com/u/3986303?v=4" width="42;" alt="dayday"/></a>
 <a href="https://github.com/denymz" title="Deny"><img src="https://avatars.githubusercontent.com/u/23657601?v=4" width="42;" alt="Deny"/></a>
@@ -529,7 +530,6 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/gcluffy" title="gcluffy"><img src="https://avatars.githubusercontent.com/u/39456622?v=4" width="42;" alt="gcluffy"/></a>
 <a href="https://github.com/hotdogc1017" title="hotdogc1017"><img src="https://avatars.githubusercontent.com/u/126151508?v=4" width="42;" alt="hotdogc1017"/></a>
 <a href="https://github.com/huangyoo" title="huangyao"><img src="https://avatars.githubusercontent.com/u/16477499?v=4" width="42;" alt="huangyao"/></a>
-<a href="https://github.com/nsnans" title="nsnans"><img src="https://avatars.githubusercontent.com/u/68949154?v=4" width="42;" alt="nsnans"/></a>
 <a href="https://github.com/zyimm" title="zyimm"><img src="https://avatars.githubusercontent.com/u/13979159?v=4" width="42;" alt="zyimm"/></a>
 <a href="https://github.com/lxp731" title="七朔"><img src="https://avatars.githubusercontent.com/u/95358476?v=4" width="42;" alt="七朔"/></a>
 <a href="https://github.com/gclm" title="孤城落寞"><img src="https://avatars.githubusercontent.com/u/27618687?v=4" width="42;" alt="孤城落寞"/></a>
@@ -564,6 +564,8 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/xin99xin" title="zodiac"><img src="https://avatars.githubusercontent.com/u/10813088?v=4" width="42;" alt="zodiac"/></a>
 <a href="https://github.com/fireairforce" title="zoomdong"><img src="https://avatars.githubusercontent.com/u/32598811?v=4" width="42;" alt="zoomdong"/></a>
 <a href="https://github.com/zuixin369" title="zuixin369"><img src="https://avatars.githubusercontent.com/u/54224677?v=4" width="42;" alt="zuixin369"/></a>
+<a href="https://github.com/loprx" title="0x_000"><img src="https://avatars.githubusercontent.com/u/32635468?v=4" width="42;" alt="0x_000"/></a>
+<a href="https://github.com/JackABlack" title="Jack.A.Black"><img src="https://avatars.githubusercontent.com/u/33801210?v=4" width="42;" alt="Jack.A.Black"/></a>
 <a href="https://github.com/JellyObjeck" title="Jelly"><img src="https://avatars.githubusercontent.com/u/141554249?v=4" width="42;" alt="Jelly"/></a>
 <a href="https://github.com/Nexchard" title="Nexchard"><img src="https://avatars.githubusercontent.com/u/61868296?v=4" width="42;" alt="Nexchard"/></a>
 <a href="https://github.com/karlhorky" title="Karl Horky"><img src="https://avatars.githubusercontent.com/u/1935696?v=4" width="42;" alt="Karl Horky"/></a>
@@ -579,8 +581,6 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/linmingwei" title="mwei"><img src="https://avatars.githubusercontent.com/u/20484631?v=4" width="42;" alt="mwei"/></a>
 <a href="https://github.com/Marnm" title="Marnm"><img src="https://avatars.githubusercontent.com/u/13164237?v=4" width="42;" alt="Marnm"/></a>
 <a href="https://github.com/MinsonLee" title="MinsonLee"><img src="https://avatars.githubusercontent.com/u/22138919?v=4" width="42;" alt="MinsonLee"/></a>
-<a href="https://github.com/XD-DENG" title="Xiaodong DENG"><img src="https://avatars.githubusercontent.com/u/11539188?v=4" width="42;" alt="Xiaodong DENG"/></a>
-<a href="https://github.com/loprx" title="0x_000"><img src="https://avatars.githubusercontent.com/u/32635468?v=4" width="42;" alt="0x_000"/></a>
 <a href="https://github.com/apnpc" title="PanHeng"><img src="https://avatars.githubusercontent.com/u/39884597?v=4" width="42;" alt="PanHeng"/></a>
 <a href="https://github.com/Azroys" title="azroy"><img src="https://avatars.githubusercontent.com/u/73465351?v=4" width="42;" alt="azroy"/></a>
 <a href="https://github.com/cy920820" title="Cui Yang"><img src="https://avatars.githubusercontent.com/u/21211512?v=4" width="42;" alt="Cui Yang"/></a>
@@ -597,6 +597,8 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/HighScorePlayer" title="HighScorePlayer"><img src="https://avatars.githubusercontent.com/u/59147099?v=4" width="42;" alt="HighScorePlayer"/></a>
 <a href="https://github.com/huntout" title="Huntout Zhang"><img src="https://avatars.githubusercontent.com/u/3908223?v=4" width="42;" alt="Huntout Zhang"/></a>
 <a href="https://github.com/jack-zheng" title="Jack"><img src="https://avatars.githubusercontent.com/u/5470278?v=4" width="42;" alt="Jack"/></a>
+<a href="https://github.com/pplmx" title="Mystic"><img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystic"/></a>
+<a href="https://github.com/XD-DENG" title="Xiaodong DENG"><img src="https://avatars.githubusercontent.com/u/11539188?v=4" width="42;" alt="Xiaodong DENG"/></a>
 <a href="https://github.com/Xonline-Tech" title="Xonline-Tech"><img src="https://avatars.githubusercontent.com/u/55641276?v=4" width="42;" alt="Xonline-Tech"/></a>
 <a href="https://github.com/xuchunyang" title="Xu Chunyang"><img src="https://avatars.githubusercontent.com/u/4550353?v=4" width="42;" alt="Xu Chunyang"/></a>
 <a href="https://github.com/yansheng836" title="Yan Sheng"><img src="https://avatars.githubusercontent.com/u/45334066?v=4" width="42;" alt="Yan Sheng"/></a>
@@ -612,8 +614,6 @@ Adobe软件的最佳替代品 [原文在这里](https://linux.cn/article-8928-1.
 <a href="https://github.com/brinkqiang" title="brinkqiang"><img src="https://avatars.githubusercontent.com/u/10229072?v=4" width="42;" alt="brinkqiang"/></a>
 <a href="https://github.com/c2ch" title="c2ch"><img src="https://avatars.githubusercontent.com/u/35028011?v=4" width="42;" alt="c2ch"/></a>
 <a href="https://github.com/chaofanx" title="chaofan"><img src="https://avatars.githubusercontent.com/u/60053994?v=4" width="42;" alt="chaofan"/></a>
-<a href="https://github.com/121812" title="Forever121"><img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="Forever121"/></a>
-<a href="https://github.com/pplmx" title="Mystic"><img src="https://avatars.githubusercontent.com/u/26994103?v=4" width="42;" alt="Mystic"/></a>
 <a href="https://github.com/Zhengqbbb" title="Q.Ben Zheng"><img src="https://avatars.githubusercontent.com/u/40693636?v=4" width="42;" alt="Q.Ben Zheng"/></a>
 <a href="https://github.com/rayyee" title="Ray Yee"><img src="https://avatars.githubusercontent.com/u/685149?v=4" width="42;" alt="Ray Yee"/></a>
 <a href="https://github.com/wurining" title="Rining Wu"><img src="https://avatars.githubusercontent.com/u/26198634?v=4" width="42;" alt="Rining Wu"/></a>
